@@ -1,0 +1,11 @@
+research/raw/
+node_modules/
+.wrangler/
+playwright-report/
+test-results/
+artifacts/
+*.local
+.env
+.env.*
+.dev.vars*
+__pycache__/
