@@ -24,7 +24,7 @@ The first shipment is described as 1,738 BNR cases plus two royal cases. The BNR
 
 The inspected modern denomination table is particularly instructive. German marks account for 45.56% of its stated BNR value and Austrian crowns for 29.31%; Romanian caroli account for 0.34%. Those are reconstructed value shares, not independently verified mass shares. The consequence is still clear: a search restricted to coins bearing Romanian designs would miss most of the monetary categories in the published inventory. Equally, the discovery of an ordinary Romanian gold coin abroad would not establish that it belonged to this deposit. [S31]
 
-The table’s value rows and case counts reconcile exactly, but its bag rows add to 13,833 rather than the printed 13,823. This small discrepancy is a useful warning. The inventory should be treated as structured evidence to audit, not as an illustration to copy unquestioningly. The original annex may resolve the difference; guessing which row is wrong would contaminate the reconstruction. [S31]
+The modern reprint’s bag rows add to 13,833 rather than its printed 13,823. A final primary-source check resolved this: the BNR-hosted annex photograph visibly gives 4,387 Austrian-crown bags, not the modern reprint’s 4,397. BNR’s own table agrees, and its rows sum to 13,823. Our ledger now follows that official transcription and preserves the comparison openly. The photographed Romanian-coin lei-value cell appears to say 1,065,000, whereas its currency amount and the modern official table give 1,065,705; the latter reconciles the published grand total. This remaining cell-level difference is not silently certified away. [S31] [S41] [S42]
 
 ## The first footprints: protocols, calendars and an eyewitness diary
 
@@ -122,11 +122,13 @@ An accounting detail also deserves care: a BNR-hosted monetary history says the 
 
 At the historical parity of 9/31 gram of fine gold per gold leu, the first published value of 314,580,456.84 gold lei corresponds arithmetically to about 91.3298 tonnes, and 574,523.57 corresponds to about 0.1668 tonnes. Their sum is 315,154,980.41 gold lei, or about 91.4966 tonnes, consistent with rounding to 91.5. This is a monetary-parity calculation, not a new physical assay or independent confirmation of each coin’s fineness. [S03] [S31] The parity is derived from 3,100 lei per kilogram of 900‰ mint gold in the BNR-hosted monetary history: 900 grams divided by 3,100 lei = 9/31 gram of fine gold per leu. [S39]
 
-The BNR material reprinted by Adevărul gives a total of 315,179,980.41 gold lei, which is 25,000 more than those two stated component values. Both totals round to approximately 91.5 tonnes at that parity. That makes the modern rounded claim robust to this particular discrepancy, but it does not identify which underlying entry needs correction. The original ledger should decide. [S03]
+The BNR history page itself, as well as its Adevărul reprint, gives a total of 315,179,980.41 gold lei, which is 25,000 more than those two stated component values. Both totals round to approximately 91.5 tonnes at that parity. That makes the modern rounded claim robust to this particular discrepancy, but it does not identify which underlying entry needs correction. The original ledger should decide. [S03] [S43]
 
 Adding the royal jewels’ 7-million-gold-lei appraisal to a bullion valuation can produce a gold-equivalent value near some larger published figures. It cannot establish the literal gold weight of the jewels or explain every 93.4/93.452-tonne statement. Nor does a neat numerical resemblance justify treating the 120-tonne popular description as a reconciled gross-weight figure. Asset boundaries and original measurement columns remain necessary. [S25] [S35] [S37]
 
-Other open audit items are the ten-bag difference in the modern first-shipment table, the two-object difference in the published 1956 category totals, the conflicting 1922 rouble balances and the ambiguous numerical expression in the translated 1924 report. Each is shown openly. None is large enough by itself to prove a theft, cover-up or alternate treasure location. [S03] [S09] [S10] [S31]
+The ten-bag difference in the modern first-shipment table is now traced to its Austrian-crown row using BNR’s photographed annex. Still open are the Romanian-coin cell/transcription difference, the two-object difference in published 1956 totals, conflicting 1922 rouble balances and the ambiguous numerical expression in the translated 1924 report. None by itself establishes theft, a cover-up or an alternate location. [S03] [S09] [S10] [S31] [S41] [S42]
+
+A bilingual check catches another editorial inconsistency: BNR’s English inventory page places the additional four gold cases in December 1917; its Romanian counterpart says summer 1917, consistent with the August chronology. We follow the Romanian account alongside the dated shipment evidence, and do not invent a third evacuation to reconcile an English web sentence. [S42] [S43]
 
 ## A practical next investigation, in order
 
@@ -146,7 +148,7 @@ This is a desk investigation with a research cutoff of 5 September 2026. It used
 
 The source register distinguishes primary records, eyewitness publication, retrospective archival reconstruction, official advocacy, scholarly interpretation, reporting, abstracts and catalogues. It also identifies evidence families. Several Romanian pages repeat Schipor or BNR; their number does not make the underlying assertion independently corroborated. US official publication authenticates the existence and content of a diplomatic allegation, not its truth. A catalogue authenticates a discovery path, not the contents of an unread file.
 
-Original archive visits, complete BNR protocol scans, the decisive Russian annexes, paid books, museum accession files and the original July 1920 newspaper remain outside the inspected material. The BNR portal returned a navigation shell during automated retrieval. Direct attempts to retrieve some newspaper material were blocked, and a Mosyakin preview download timed out. Those limits were not bypassed or disguised as successful reading. Raw third-party books and scans remain outside the published site; source links and original summaries are provided instead.
+Original archive visits, complete protocol sets, the decisive Russian annexes, paid books, museum accession files and the original July 1920 newspaper remain outside the inspected material. Initial automated BNR retrieval returned navigation, but a later browser pass obtained the inventory and history sections, both inventory language versions, and four selected protocol/annex photographs. The selected scans are not a complete custody audit. Some newspaper retrievals failed and a Mosyakin preview timed out. Raw third-party books and scans remain outside the public site; original summaries and source-host links are provided. [S41] [S42] [S43]
 
 Working translations aim to preserve uncertainty and asset categories; they are not certified translations. OCR and modern transcriptions can introduce errors, especially in tables and historical place names. Date conversions are only asserted when the source calendar is identified. Geographic connections are schematic and source-qualified. No probability percentages have been invented for competing hypotheses.
 
@@ -180,15 +182,15 @@ Sources: S11, S36
 
 ### E03: The reserve had many nationalities
 
-Published reconstruction, numerically checked
+Official transcription and selected facsimile checked
 
 No. The inspected first-shipment table assigns only 0.34% of BNR value to Romanian caroli. German marks and Austrian crowns together account for about 75%.
 
-We transcribed and checked the modern table: the money rows sum exactly to 314,580,456.84 gold lei and the case rows to 1,738. The bag rows sum to 13,833, not the printed 13,823. Percentage of value is not independently measured percentage of mass.
+The official transcription sums to 314,580,456.84 gold lei, 1,738 bank cases and 13,823 bags. The annex photograph confirms 4,387 Austrian-crown bags; the modern reprint has 4,397. The Romanian-coin value cell in the photograph also needs comparison with its currency column and official transcription. Value share is not measured mass share.
 
-Next proof: Obtain the original inventory image and correct the bag row or total from the source—not by guesswork.
+Next proof: Extend this selected-image check to all original annexes, then compare the May 1921 inventory. Preserve transcription differences rather than silently repairing them.
 
-Sources: S31
+Sources: S31, S41, S42
 
 ### E04: The revolution did not erase all paperwork
 
@@ -316,7 +318,7 @@ gold / Officially documented
 
 The first shipment comprised 1,738 BNR cases and two cases of Queen Marie’s jewels. The bank’s stated value was 314,580,456.84 gold lei; the jewels were separately valued at 7 million.
 
-Limit: We read published descriptions and a reconstructed table, not the complete original protocol and every annex. Do not turn the jewellery valuation into literal bullion weight.
+Limit: We read published descriptions, the official table and selected original-document photographs, not the complete protocol and every annex. Do not turn the jewellery valuation into literal bullion weight.
 
 Sources: S03, S25, S31
 
@@ -336,9 +338,9 @@ gold / Officially documented
 
 The inventory and protocol recorded the first shipment’s contents. Later comparisons need its denominations, case numbers, weights and signatures—not merely “Romanian gold” as a label.
 
-Limit: Calendar normalization varies across retellings. The current table is a modern reconstruction; its bag-count discrepancy remains open.
+Limit: Calendar normalization varies across retellings. BNR’s annex photograph resolves the modern table’s ten-bag discrepancy: 4,387 Austrian-crown bags, not 4,397.
 
-Sources: S04, S07, S31
+Sources: S04, S07, S31, S41, S42
 
 ### T05: 21–27 July 1917 OS / 3–9 August NS — Packing the country’s cultural memory
 
@@ -1012,13 +1014,13 @@ https://www.europarl.europa.eu/doceo/document/TA-9-2024-0171_EN.html
 
 National Bank of Romania · 2025-10-24 launch · English / Romanian
 
-Access: Portal located; document scans not inspected
+Access: Portal and rendered sections read; selected scans inspected
 
 Locator: History and heritage; Romanian counterpart: 24788-tezaurul-bnr-evacuat-la-moscova
 
 The bank announced inventories, historical images and copies of original documents from its own archive.
 
-Limit: Automated retrieval produced navigation rather than the substantive document collection. Do not count the original protocols as inspected here.
+Limit: Initial text retrieval returned navigation; a subsequent browser pass reached the collection. Four selected protocol/annex photographs were visually inspected, not the complete archive. See S41–S43.
 
 Evidence family: Romanian official claim
 
@@ -1482,7 +1484,7 @@ Locator: Table headed “Numărul de: lăzi / saci”; discussion of Mosyakin’
 
 Reconstructs the first shipment by denomination: German marks 45.56%, Austrian crowns 29.31%, Romanian caroli 0.34% of stated BNR value.
 
-Limit: An author’s modern table, not the original ledger. Values and case rows reconcile; bag rows sum to 13,833 while the printed total is 13,823. Host commentary is not endorsed.
+Limit: An author’s modern table, not the original ledger. Values and case rows reconcile; its Austrian row says 4,397 bags, versus 4,387 in the BNR annex photograph and transcription (S41–S42). The latter reconciles the printed 13,823 total. Host commentary is not endorsed.
 
 Evidence family: Schipor archival reconstruction
 
@@ -1631,3 +1633,51 @@ Limit: The inspected account does not identify a Romanian component. Its 217.2 /
 Evidence family: Published Soviet accounting record
 
 https://docs.historyrussia.org/ru/nodes/73089
+
+### S41: First-shipment inventory annex and selected protocol facsimiles
+
+National Bank of Romania, publishing Russian/French deposit records · 1917-02-16 (document date) · Russian / French
+
+Access: Four selected photographs visually inspected
+
+Locator: Annex image 984499206.jpg; protocol first page 1266638180.jpg, last page 210295509.jpg; operations annex 220870989.jpg, linked from S42
+
+The summary annex visibly gives 4,387 Austrian-crown bags and a total of 13,823 bags. Selected protocol pages identify parties, seals, guards and a four-copy document arrangement.
+
+Limit: Selected institutional photographs, not a complete protocol or an archive visit. The Romanian-coin lei-value cell appears to read 1,065,000, while its currency amount and the official transcription give 1,065,705; the latter reconciles the grand total. Do not describe every original cell as independently reconciled. No 1921 or 1924 original is supplied here.
+
+Evidence family: Romanian official archive
+
+https://www.bnr.ro/uploads/editor/984499206.jpg
+
+### S42: Inventarul tezaurului / Treasure inventory
+
+National Bank of Romania · Undated current page; inspected 2026-09-05 · Romanian / English
+
+Access: Both rendered language versions read; linked scans inspected
+
+Locator: English counterpart: https://www.bnr.ro/en/24934-treasure-inventory; denomination table and final paragraph
+
+Official table uses 4,387 Austrian-crown bags. Romanian text places the additional four gold cases in summer 1917. The reserve is described as 91.5 tonnes of fine gold.
+
+Limit: English final paragraph says December 1917 for the additional four cases, unlike Romanian summer 1917 and the history chronology. This is a language-version inconsistency, not evidence for a third shipment. The table is a transcription and has to be distinguished from the facsimile.
+
+Evidence family: Romanian official claim
+
+https://www.bnr.ro/24779-inventarul-tezaurului
+
+### S43: Treasure history
+
+National Bank of Romania · Undated current page; inspected 2026-09-05 · English
+
+Access: Rendered substantive page read
+
+Locator: Shipment and restitution chronology
+
+Direct institutional source for the two shipment values, August 1917 additional deposit, and return accounts.
+
+Limit: Its stated total 315,179,980.41 gold lei is 25,000 above its stated components. This discrepancy is therefore present on BNR itself, not merely in a newspaper reprint. Institutional summaries are not infallible; originals should control.
+
+Evidence family: Romanian official claim
+
+https://www.bnr.ro/en/24933-treasure-history

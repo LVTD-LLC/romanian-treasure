@@ -24,7 +24,7 @@ for source in data['sources']:
     assert urlsplit(source['url']).scheme == 'https', source['id']
 assert sum(Decimal(str(row['goldLei'])) for row in data['coins']) == Decimal('314580456.84')
 assert sum(row['cases'] for row in data['coins']) == 1738
-assert sum(row['bags'] or 0 for row in data['coins']) == 13833
+assert sum(row['bags'] or 0 for row in data['coins']) == 13823
 assert sum(Decimal(str(row['share'])) for row in data['coins']) == Decimal('100.02')
 
 class Links(HTMLParser):

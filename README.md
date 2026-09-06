@@ -11,7 +11,7 @@ An evidence-linked investigation of the Romanian Treasure evacuated to Moscow in
 - [Portable research text](site/case-file.md).
 - [Structured dataset](site/data.json), [source register](site/sources.csv), [chronology](site/timeline.csv) and [research leads](site/research-leads.csv).
 
-The first edition includes a roughly 14,000-word dossier, 40 source records, 35 timeline events, 12 exhibits, eight competing explanations and 12 actionable research leads. Every source states what was actually read, what remains inaccessible, and which evidence family it belongs to.
+The current edition includes a roughly 14,000-word dossier, 43 source records, 35 timeline events, 12 exhibits, eight competing explanations and 12 actionable research leads. Every source states what was actually read, what remains inaccessible, and which evidence family it belongs to.
 
 ## Cloudflare hosting
 
